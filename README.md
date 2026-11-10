@@ -1,3 +1,5 @@
 Para iniciar a aplicaçao pelo TERMINAL caso o RUN no VSCODE n funcione: py -m streamlit run app.py
 
-Necessita da criaçao de um Banco de Dados e linkar com app.py
+Necessário: 
+    Importaçao das seguintes bibliotecas: **py -m pip install streamlit pandas psycopg2-binary plotly**
+    **Criaçao do Banco de Dados ** todos os comandos dentro do arquivo **starschema.sql**
