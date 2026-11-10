@@ -2,4 +2,4 @@ Para iniciar a aplicaçao pelo TERMINAL caso o RUN no VSCODE n funcione: py -m s
 
 Necessário:   
     Importaçao das seguintes bibliotecas: **py -m pip install streamlit pandas psycopg2-binary plotly**  
-    **Criaçao do Banco de Dados ** todos os comandos dentro do arquivo **starschema.sql**
+    **Criaçao do Banco de Dados** todos os comandos estao dentro do arquivo **starschema.sql**
